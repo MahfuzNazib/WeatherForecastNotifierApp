@@ -1,0 +1,15 @@
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\bin\Debug\net6.0\WeatherForecastNotifierApp.exe
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\bin\Debug\net6.0\WeatherForecastNotifierApp.deps.json
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\bin\Debug\net6.0\WeatherForecastNotifierApp.runtimeconfig.json
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\bin\Debug\net6.0\WeatherForecastNotifierApp.dll
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\bin\Debug\net6.0\WeatherForecastNotifierApp.pdb
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.csproj.AssemblyReference.cache
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.AssemblyInfoInputs.cache
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.AssemblyInfo.cs
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.csproj.CoreCompileInputs.cache
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.dll
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\refint\WeatherForecastNotifierApp.dll
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.pdb
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\WeatherForecastNotifierApp.genruntimeconfig.cache
+E:\Software's\ASP.NET\WeatherForecastNotifierApp\WeatherForecastNotifierApp\obj\Debug\net6.0\ref\WeatherForecastNotifierApp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/91e/312KTT8qhBSsmMeAydR7Y+yfpcXHD74xK9JKW0FrtjCKRGDbumGn2Cag6qY+Y0mnENPcNh+wmwvDzltA==",
+  "success": true,
+  "projectFilePath": "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazib\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
