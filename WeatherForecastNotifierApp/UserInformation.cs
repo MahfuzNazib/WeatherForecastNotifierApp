@@ -28,16 +28,23 @@ namespace WeatherForecastNotifierApp
             }
         }
 
-        public bool SetupUserProfile()
+        public void SetupUserProfile()
         {
-            Console.WriteLine("Enter Your Name : ");
+            Console.Write("Enter Your Name          : ");
             string FullName = Convert.ToString(Console.ReadLine());
 
-            Console.WriteLine("Enter City Name : ");
+            Console.Write("Enter City Name          : ");
             string CityName = Console.ReadLine().ToLower();
 
-            Console.WriteLine("Enter Your State Code : ");
-            return true;
+            Console.Write("Enter Your State Code    : ");
+            string StateCode = Console.ReadLine();
+
+            Console.Write("Country Code             : ");
+            string CountryCode = Console.ReadLine();
+
+
+            GetCurrentLocation currentLocation = new GetCurrentLocation();
+            currentLocation.GetUserCurrentLocation();
         }
 
         public bool SkipForNow()

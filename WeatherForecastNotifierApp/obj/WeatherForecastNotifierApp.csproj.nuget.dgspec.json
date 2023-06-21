@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj": {}
+    "E:\\Learning\\C#\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj": {}
   },
   "projects": {
-    "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj": {
+    "E:\\Learning\\C#\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj",
+        "projectUniqueName": "E:\\Learning\\C#\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj",
         "projectName": "WeatherForecastNotifierApp",
-        "projectPath": "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj",
-        "packagesPath": "C:\\Users\\nazib\\.nuget\\packages\\",
-        "outputPath": "E:\\Software's\\ASP.NET\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\obj\\",
+        "projectPath": "E:\\Learning\\C#\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp.csproj",
+        "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning\\C#\\WeatherForecastNotifierApp\\WeatherForecastNotifierApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nazib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "GeoCoordinate.NetCore": {
-              "target": "Package",
-              "version": "[1.0.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
